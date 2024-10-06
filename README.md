@@ -1,4 +1,5 @@
-# Urgence numérique aux Antilles : Réveiller le volcan de l'innovation
+# Urgence numérique aux Antilles
+> Réveiller le volcan de l'innovation
 
 ## Sommaire
 
