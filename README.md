@@ -36,8 +36,9 @@ Des modules courts de spécialisation, qui peuvent compléter des formations plu
  
 ---
 
+### Alternance limitée
+
 > [!IMPORTANT]
-> **Alternance limitée**
 > L'alternance est un facteur clé d'insertion, mais le manque de postes disponibles dans les métiers tech, lié au scepticisme des employeurs quant aux technologies numériques et aux compétences des jeunes, limite les opportunités. Ce manque de confiance résulte d'une faible intégration du numérique dans les structures locales, particulièrement dans les PME.
 
 ### Solutions
