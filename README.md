@@ -76,11 +76,12 @@ La région Guadeloupe a déjà lancé des initiatives pour soutenir l'économie 
 
 (Texte à compléter...)
 
---- 
-
-![GitHub License](https://img.shields.io/github/license/webmonster97/economie-tech%20)
-
-
 ## Appel à l'action : la révolution numérique est maintenant
 
 (Texte à compléter...)
+
+
+
+--- 
+
+![GitHub License](https://img.shields.io/github/license/webmonster97/economie-tech%20)
