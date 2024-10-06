@@ -21,7 +21,7 @@ L'objectif de ce travail est de favoriser une réflexion collective sur l'urgenc
 
 ## Introduction : l'état actuel de la tech aux Antilles
 
-Les Antilles, en particulier la Martinique et la Guadeloupe, présentent un paradoxe intéressant dans le domaine de la tech. D'un côté, une jeunesse connectée et avide de technologies ; de l'autre, un secteur numérique en difficulté. Ce contraste est notamment illustré par des taux de fragilité numérique très élevés, atteignant 74% de la population en Martinique, ce qui en fait l'un des territoires les plus fragiles en France en termes d'inclusion numérique (source : RCI).
+Les Antilles, en particulier la Martinique et la Guadeloupe, présentent un paradoxe intéressant dans le domaine de la tech. D'un côté, une jeunesse connectée et avide de technologies ; de l'autre, un secteur numérique en difficulté. Ce contraste est notamment illustré par des taux de fragilité numérique très élevés, atteignant 74% de la population en Martinique, ce qui en fait l'un des territoires les plus fragiles en France en termes d'inclusion numérique (source : [RCI](https://rci.fm/deuxiles/node/4816681)).
 
 En parallèle, un quart des jeunes en Guadeloupe (27,3%) ne sont ni en emploi, ni en études, ni en formation (NEET), une situation également très présente en Martinique (source : INSEE). Ce chiffre est deux fois supérieur à celui de la France hexagonale, soulignant les difficultés d'insertion professionnelle, notamment dans les métiers du numérique. Les formations techniques, souvent pointues, ne correspondent pas toujours aux besoins locaux, et l'absence de débouchés pousse les jeunes talents à quitter la région.
 
