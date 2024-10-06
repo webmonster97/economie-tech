@@ -1,5 +1,5 @@
 # Urgence numérique aux Antilles
-**Réveiller le volcan de l'innovation**
+## _Réveiller le volcan de l'innovation_
 
 Ce document a été élaboré par le collectif Webmonster, qui est engagé dans le développement et la promotion des compétences numériques aux Antilles. Il représente une analyse approfondie des territoires de la Martinique et de la Guadeloupe, mettant en lumière les enjeux, les défis et les opportunités liés à l'économie numérique dans ces régions.
 
