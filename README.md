@@ -242,8 +242,7 @@ Bien que les Antilles possèdent un potentiel important pour devenir un hub tech
 
 #### 💡Solution
 
-- Favoriser la création d’un écosystème technologique caribéen en s’inspirant des hubs technologiques émergents comme celui de la Jamaïque. En renforçant les collaborations régionales, les Antilles pourraient mieux se positionner sur le marché numérique mondial. La création de partenariats avec des centres de recherche régionaux et des start-ups des îles voisines pourrait accroître les opportunités de coopération.
-
+- Favoriser la création d’un écosystème technologique caribéen en s’inspirant des hubs technologiques émergents comme celui de la Jamaïque. En renforçant les collaborations régionales, les Antilles pourraient mieux se positionner sur le marché numérique mondial. La création de partenariats avec des centres de recherche régionaux et des start-ups des îles voisines pourrait accroître les opportunités de coopération. Dans cette dynamique, la création de contenu en anglais, ou du moins lors des interventions, pourrait aider à nous mettre en lumière auprès de nos partenaires caribéens. Dans cette dynamique, la création de contenu en anglais, ou du moins lors des interventions, pourrait aider à nous mettre en lumière auprès de nos partenaires caribéens, voire même au-delà.
 ---
 
 
