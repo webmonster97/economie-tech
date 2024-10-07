@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-0.0.3-blue) ![GitHub License](https://img.shields.io/github/license/webmonster97/economie-tech%20)
+![Version](https://img.shields.io/badge/version-0.0.4-blue) ![GitHub License](https://img.shields.io/github/license/webmonster97/economie-tech%20)
 ---
 # Urgence numérique aux Antilles
 ## _Réveiller le volcan de l'innovation_
