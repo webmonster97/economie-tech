@@ -76,7 +76,7 @@ En Guadeloupe, des initiatives existent déjà pour renforcer l'économie numér
 
 ---
 
-## 🗂️ Le potentiel inexploité de la tech aux Antilles
+## Le potentiel inexploité de la tech aux Antilles
 
 Les Antilles, avec leur environnement unique et leur diversité culturelle, possèdent un potentiel considérable dans le domaine de la technologie. Malgré les défis actuels, plusieurs facteurs favorisent le développement d'un écosystème numérique dynamique.
 
@@ -247,7 +247,7 @@ Bien que les Antilles possèdent un potentiel important pour devenir un hub tech
 ---
 
 
-## 🗂️ Les géants étrangers : menace ou opportunité ?
+## Les géants étrangers : menace ou opportunité ?
 
 L'arrivée des géants technologiques internationaux tels que Google, Amazon, Facebook, et Microsoft en Martinique et en Guadeloupe suscite des réactions contrastées. Si ces entreprises apportent des services de pointe et des innovations, elles soulèvent également des questions sur leur impact à long terme sur l'économie locale, les entreprises antillaises et l'emploi.
 
