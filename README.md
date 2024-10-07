@@ -165,7 +165,7 @@ Les Antilles ont également l'opportunité de collaborer avec d'autres territoir
   
 ---
 
-## 🗂️ Freins et obstacles au développement
+## Freins et obstacles au développement
 
 Bien que les Antilles possèdent un potentiel important pour devenir un hub technologique, plusieurs obstacles freinent encore le développement de ce secteur. Ces freins sont liés à des facteurs économiques, structurels et culturels qui doivent être abordés pour permettre à l'écosystème tech de croître de manière durable et inclusive.
 
@@ -355,23 +355,23 @@ Les Antilles françaises sont confrontées à des réalités socio-économiques 
 
 ---
 
-## 🗂️ L'importance de l'innovation locale
+## L'importance de l'innovation locale
 
 (Texte à compléter...)
 
-## 🗂️ Le rôle des institutions et des politiques publiques
+## Le rôle des institutions et des politiques publiques
 
 (Texte à compléter...)
 
-## 🗂️ La diaspora : une force à mobiliser
+## La diaspora : une force à mobiliser
 
 (Texte à compléter...)
 
-## 🗂️ Scénarios futurs : où va la tech aux Antilles ?
+## Scénarios futurs : où va la tech aux Antilles ?
 
 (Texte à compléter...)
 
-## 🗂️ Appel à l'action : la révolution numérique est maintenant
+## Appel à l'action : la révolution numérique est maintenant
 
 (Texte à compléter...)
 
