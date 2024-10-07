@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.0.4 2024-10-07
+* Ajout du chapître `Les géants étrangers : menace ou opportunité ?`
+
 ## 0.0.3 - 2024-10-06
 * Ajout du chapitre `Le potentiel inexploité de la tech aux Antilles`
 * Ajout du chapitre `Freins et obstacles au développement`
