@@ -9,7 +9,7 @@ L'objectif de ce travail est de favoriser une réflexion collective sur l'urgenc
 
 ## Sommaire
 
-- [Introduction : l'état actuel de la tech aux Antilles](#🗂️-introduction--létat-actuel-de-la-tech-aux-antilles)
+- [Introduction : l'état actuel de la tech aux Antilles](#introduction--létat-actuel-de-la-tech-aux-antilles)
 - [Le potentiel inexploité de la tech aux Antilles](#le-potentiel-inexploité-de-la-tech-aux-antilles)
 - [Freins et obstacles au développement](#freins-et-obstacles-au-développement)
 - [Les géants étrangers : menace ou opportunité ?](#les-géants-étrangers--menace-ou-opportunité-)
@@ -21,7 +21,7 @@ L'objectif de ce travail est de favoriser une réflexion collective sur l'urgenc
 
 ---
 
-## 🗂️ Introduction : l'état actuel de la tech aux Antilles
+## Introduction : l'état actuel de la tech aux Antilles
 
 Les Antilles, en particulier la Martinique et la Guadeloupe, présentent un paradoxe intéressant dans le domaine de la tech. D'un côté, une jeunesse connectée et avide de technologies ; de l'autre, un secteur numérique en difficulté. Ce contraste est notamment illustré par des taux de fragilité numérique très élevés, atteignant 74% de la population en Martinique, ce qui en fait l'un des territoires les plus fragiles en France en termes d'inclusion numérique (source : [RCI](https://rci.fm/deuxiles/node/4816681)).
 
