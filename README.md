@@ -9,7 +9,7 @@ L'objectif de ce travail est de favoriser une réflexion collective sur l'urgenc
 
 ## Sommaire
 
-- [Introduction : l'état actuel de la tech aux Antilles](#introduction--létat-actuel-de-la-tech-aux-antilles)
+- [Introduction : l'état actuel de la tech aux Antilles](#🗂️-introduction--létat-actuel-de-la-tech-aux-antilles)
 - [Le potentiel inexploité de la tech aux Antilles](#le-potentiel-inexploité-de-la-tech-aux-antilles)
 - [Freins et obstacles au développement](#freins-et-obstacles-au-développement)
 - [Les géants étrangers : menace ou opportunité ?](#les-géants-étrangers--menace-ou-opportunité-)
