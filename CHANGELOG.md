@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.0.5 2024-10-08
+* Ajout du chapître `Le rôle des institutions et des politiques publiques`
+
 ## 0.0.4 2024-10-07
 * Ajout du chapître `Les géants étrangers : menace ou opportunité ?`
 * Ajout du chapître `L'importance de l'innovation locale`
