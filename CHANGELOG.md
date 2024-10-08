@@ -2,6 +2,7 @@
 
 ## 0.0.5 2024-10-08
 * Ajout du chapître `Le rôle des institutions et des politiques publiques`
+* Ajout du chapître `La diaspora : une force à mobiliser`
 
 ## 0.0.4 2024-10-07
 * Ajout du chapître `Les géants étrangers : menace ou opportunité ?`
