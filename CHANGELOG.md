@@ -2,6 +2,7 @@
 
 ## 0.0.4 2024-10-07
 * Ajout du chapître `Les géants étrangers : menace ou opportunité ?`
+* Ajout du chapître `L'importance de l'innovation locale`
 
 ## 0.0.3 - 2024-10-06
 * Ajout du chapitre `Le potentiel inexploité de la tech aux Antilles`
