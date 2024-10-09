@@ -33,7 +33,7 @@ Les Antilles, en particulier la Martinique et la Guadeloupe, présentent un para
 
 En parallèle, un quart des jeunes en Guadeloupe (27,3%) ne sont ni en emploi, ni en études, ni en formation (NEET), une situation également très présente en Martinique (source : [INSEE](https://www.insee.fr/fr/statistiques/6689926)). Ce chiffre est deux fois supérieur à celui de la France hexagonale, soulignant les difficultés d'insertion professionnelle, notamment dans les métiers du numérique. Les formations techniques, souvent pointues, ne correspondent pas toujours aux besoins locaux, et l'absence de débouchés pousse les jeunes talents à quitter la région.
 
-^ [Lire les problématiques et les solutions](docs/introduction.md)
+![Lire les problématiques et les solutions](docs/introduction.md)
 
 ---
 
