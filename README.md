@@ -632,24 +632,26 @@ Ce chapitre est un appel à toutes les parties prenantes – entreprises, instit
 
 Les défis technologiques que nous devons surmonter sont nombreux : infrastructures, formation, financement, innovation. Mais ils ne sont pas insurmontables. En travaillant ensemble, nous pouvons transformer ces obstacles en opportunités. **Chaque acteur a un rôle à jouer dans cette révolution.**
 
-- **Les institutions publiques** : doivent continuer à promouvoir un environnement réglementaire favorable, simplifier l’accès aux financements, et s’assurer que les infrastructures numériques répondent aux besoins des citoyens et des entreprises.
-- **Les entreprises locales** : doivent s’engager à investir dans des solutions numériques, à innover dans leurs modèles économiques et à collaborer avec les start-ups et les initiatives locales pour créer un écosystème propice à l’innovation.
-- **Les entrepreneurs et start-ups** : ont la responsabilité d’oser, de créer et de proposer des solutions adaptées aux besoins de nos territoires, tout en s'appuyant sur des technologies de pointe.
-- **La diaspora** : doit être mobilisée pour partager ses connaissances, son expertise, et investir dans les projets d’avenir, devenant ainsi un véritable catalyseur de développement.
-- **Les citoyens** : doivent participer activement à cette transformation en s’appropriant les outils numériques, en se formant aux nouvelles compétences et en s’impliquant dans les initiatives locales.
-
 ### Agissons dès maintenant
 
 Nous ne pouvons plus attendre. Les solutions sont à notre portée, mais elles nécessitent une action concertée et immédiate pour éviter que la Martinique et la Guadeloupe ne restent à la traîne dans cette ère de transformations rapides.
 
 Voici les actions clés que nous devons lancer dès maintenant :
 
-- **Former les talents locaux** en multipliant les programmes de formation aux compétences numériques pour préparer la jeunesse et les professionnels aux métiers du futur.
-- **Promouvoir l'innovation locale** en soutenant les start-ups et entreprises qui proposent des solutions adaptées aux réalités environnementales, économiques et sociales de nos territoires.
-- **Faciliter l'accès aux financements** pour les projets innovants, en créant des fonds locaux adaptés aux spécificités de nos territoires, tout en mobilisant les capitaux de la diaspora.
-- **Renforcer les infrastructures numériques** en accélérant le déploiement de la fibre optique, en améliorant la couverture mobile et en préparant l’arrivée de la 5G.
-- **Créer des partenariats** avec les grandes entreprises internationales et mobiliser la diaspora pour attirer des investissements, des compétences et des technologies avancées.
-  
+- 💡 Défiscalisation des entreprises numériques dès leur création : Proposer une exonération fiscale aux nouvelles entreprises numériques jusqu'à un seuil de 40 000 € de revenu, afin de soutenir les start-ups locales dans leurs premières années d'activité et encourager l'innovation.
+
+- 💡 Créer une factory pour accompagner la transition numérique des entreprises : Mettre en place une structure dédiée, telle que Webmonster, qui aiderait les entreprises à intégrer des solutions numériques globales, en les soutenant dans leur transformation digitale.
+
+- 💡 Formation et mentorat pour les entrepreneurs et les talents locaux : Mettre l'accent sur le développement des compétences numériques grâce à des programmes de formation et de mentorat pour les jeunes talents, en collaboration avec des experts de l'industrie.
+
+- 💡 Promotion des start-ups et des applications locales : Créer un environnement favorable à la visibilité et au développement des start-ups locales via une plateforme d'incubation, Hubmonster, qui mettrait en avant les projets innovants et faciliterait l'accès aux marchés.
+
+- 💡 Développer un outil de networking dédié à la mise en relation des acteurs du numérique : Concevoir un réseau social professionnel spécifique, Placemonster, pour connecter entrepreneurs, entreprises, et professionnels du secteur numérique, permettant ainsi des collaborations efficaces.
+
+-💡 Mobilisation de la diaspora pour le mentorat et le financement : Tirer parti du potentiel de la diaspora antillaise en l’impliquant dans des programmes de mentorat et en facilitant les investissements dans des projets technologiques locaux.
+
+-💡 Partenariats avec des entreprises locales et internationales : Encourager la création de partenariats stratégiques entre entreprises locales et internationales, en mettant l'accent sur la formation, le transfert de compétences et les financements pour dynamiser l'innovation.
+
 ---
 
 Le futur commence maintenant. Prenons-le en main ensemble.
