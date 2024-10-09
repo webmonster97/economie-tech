@@ -652,13 +652,7 @@ Voici les actions clés que nous devons lancer dès maintenant :
   
 ---
 
-### Conclusion : la technologie au service de tous
-
-Le potentiel de la transformation numérique est immense. C'est un levier d'émancipation, d'opportunité et de prospérité pour chacun d’entre nous. Mais pour que ce potentiel se réalise pleinement, nous devons agir collectivement, sans attendre. Entreprises, institutions, citoyens, nous devons tous participer à cette révolution technologique.
-
-Ce n'est pas seulement une question de développement économique ; c’est aussi une question de justice sociale, d'accès équitable aux opportunités, et de participation à l'économie mondiale. La révolution numérique peut être une chance pour nos territoires, à condition que nous nous unissions pour la rendre possible, pour qu’elle soit bénéfique à tous, sans exception.
-
-Le futur commence maintenant. Prenons-le en main, ensemble.
+Le futur commence maintenant. Prenons-le en main ensemble.
 L'équipe de Webmonster
 
 #helloworld
