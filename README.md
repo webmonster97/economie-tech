@@ -7,6 +7,12 @@ Ce document a été élaboré par [le collectif Webmonster](https://webmonster.t
 
 L'objectif de ce travail est de favoriser une réflexion collective sur l'urgence numérique aux Antilles, tout en identifiant des pistes d'innovation et des solutions concrètes. Ce document est ouvert à tous ; chacun est invité à y contribuer en partageant ses idées, ses expériences et ses propositions pour améliorer le paysage numérique local. Ensemble, nous pouvons éveiller le potentiel inexploité de notre région et transformer notre vision en actions concrètes.
 
+Le futur de la Martinique et de la Guadeloupe se joue maintenant. 
+
+À l'aube de transformations globales et locales, il est essentiel de comprendre que la révolution numérique n'est pas une question de demain, mais d'aujourd'hui. Les outils, les idées et les talents sont déjà là. Ce dont nous avons besoin, c'est de l'union des forces locales et internationales pour enclencher cette dynamique de transformation. L'ère numérique représente une opportunité sans précédent pour notre région : une chance d’accélérer notre développement économique, de renforcer nos savoir-faire, et de proposer des solutions innovantes à des problématiques locales et globales.
+
+---
+
 ## Sommaire
 
 - [Introduction : l'état actuel de la tech aux Antilles](#introduction--létat-actuel-de-la-tech-aux-antilles)
@@ -20,10 +26,6 @@ L'objectif de ce travail est de favoriser une réflexion collective sur l'urgenc
 - [Appel à l'action : la révolution numérique est maintenant](#appel-à-laction--la-révolution-numérique-est-maintenant)
 
 ---
-
-### Le futur de la Martinique et de la Guadeloupe se joue maintenant. 
-
-À l'aube de transformations globales et locales, il est essentiel de comprendre que la révolution numérique n'est pas une question de demain, mais d'aujourd'hui. Les outils, les idées et les talents sont déjà là. Ce dont nous avons besoin, c'est de l'union des forces locales et internationales pour enclencher cette dynamique de transformation. L'ère numérique représente une opportunité sans précédent pour notre région : une chance d’accélérer notre développement économique, de renforcer nos savoir-faire, et de proposer des solutions innovantes à des problématiques locales et globales.
 
 ## Introduction : l'état actuel de la tech aux Antilles
 
