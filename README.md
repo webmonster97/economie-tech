@@ -648,9 +648,9 @@ Voici les actions clés que nous devons lancer dès maintenant :
 
 - 💡 Développer un outil de networking dédié à la mise en relation des acteurs du numérique : Concevoir un réseau social professionnel spécifique, Placemonster, pour connecter entrepreneurs, entreprises, et professionnels du secteur numérique, permettant ainsi des collaborations efficaces.
 
--💡 Mobilisation de la diaspora pour le mentorat et le financement : Tirer parti du potentiel de la diaspora antillaise en l’impliquant dans des programmes de mentorat et en facilitant les investissements dans des projets technologiques locaux.
+- 💡 Mobilisation de la diaspora pour le mentorat et le financement : Tirer parti du potentiel de la diaspora antillaise en l’impliquant dans des programmes de mentorat et en facilitant les investissements dans des projets technologiques locaux.
 
--💡 Partenariats avec des entreprises locales et internationales : Encourager la création de partenariats stratégiques entre entreprises locales et internationales, en mettant l'accent sur la formation, le transfert de compétences et les financements pour dynamiser l'innovation.
+- 💡 Partenariats avec des entreprises locales et internationales : Encourager la création de partenariats stratégiques entre entreprises locales et internationales, en mettant l'accent sur la formation, le transfert de compétences et les financements pour dynamiser l'innovation.
 
 ---
 
