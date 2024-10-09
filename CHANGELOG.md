@@ -3,6 +3,8 @@
 ## 0.0.5 2024-10-08
 * Ajout du chapître `Le rôle des institutions et des politiques publiques`
 * Ajout du chapître `La diaspora : une force à mobiliser`
+* Ajout du chapître `Scénarios futurs : où va la tech aux Antilles ?`
+* Ajout du chapître `Appel à l'action : la révolution numérique est maintenant`
 
 ## 0.0.4 2024-10-07
 * Ajout du chapître `Les géants étrangers : menace ou opportunité ?`
