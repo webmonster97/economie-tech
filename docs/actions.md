@@ -2,11 +2,11 @@
 
 Ce chapitre est un appel à toutes les parties prenantes – entreprises, institutions publiques, entrepreneurs, diaspora, citoyens – pour qu'elles se joignent à cette révolution et mettent en œuvre les solutions identifiées. Ensemble, nous avons la possibilité de bâtir un futur plus inclusif, plus prospère et plus résilient pour nos territoires.
 
-### Unissons nos forces
+## Unissons nos forces
 
 Les défis technologiques que nous devons surmonter sont nombreux : infrastructures, formation, financement, innovation. Mais ils ne sont pas insurmontables. En travaillant ensemble, nous pouvons transformer ces obstacles en opportunités. **Chaque acteur a un rôle à jouer dans cette révolution.**
 
-### Agissons dès maintenant
+## Agissons dès maintenant
 
 Nous ne pouvons plus attendre. Les solutions sont à notre portée, mais elles nécessitent une action concertée et immédiate pour éviter que la Martinique et la Guadeloupe ne restent à la traîne dans cette ère de transformations rapides.
 
