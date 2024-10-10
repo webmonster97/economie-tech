@@ -64,7 +64,8 @@ Les institutions et les politiques publiques jouent un rôle central dans le dé
 
 ## Respect des obligations légales : une base essentielle pour le développement
 
-Les institutions publiques doivent d'abord respecter les obligations légales en matière de transparence, de gestion des risques (RGPD, cybersécurité), et d’Open Data. L'absence de conformité à ces exigences peut freiner l'innovation et créer un manque de confiance parmi les entrepreneurs et les investisseurs.
+> [!IMPORTANT]
+> Les institutions publiques doivent d'abord respecter les obligations légales en matière de transparence, de gestion des risques (RGPD, cybersécurité), et d’Open Data. L'absence de conformité à ces exigences peut freiner l'innovation et créer un manque de confiance parmi les entrepreneurs et les investisseurs.
 
 ### 💡 Solution
 
@@ -73,7 +74,8 @@ Les institutions publiques doivent d'abord respecter les obligations légales en
 
 ## Acculturer les collectivités locales aux nouvelles pratiques : le rôle des entrepreneurs d’intérêt général
 
-Les collectivités locales ont souvent des difficultés à adopter des pratiques innovantes, notamment en matière de numérique. Cette lenteur dans l’adaptation freine l’innovation au sein des institutions publiques et réduit leur capacité à répondre efficacement aux nouveaux défis technologiques.
+> [!IMPORTANT]
+> Les collectivités locales ont souvent des difficultés à adopter des pratiques innovantes, notamment en matière de numérique. Cette lenteur dans l’adaptation freine l’innovation au sein des institutions publiques et réduit leur capacité à répondre efficacement aux nouveaux défis technologiques.
 
 ### 💡 Solution
 
@@ -81,7 +83,8 @@ Les collectivités locales ont souvent des difficultés à adopter des pratiques
 
 ## Encourager l'expérimentation : appels à PoC et sélection spontanée
 
-Les entreprises locales et les start-ups éprouvent des difficultés à tester leurs solutions innovantes en raison de la rigidité des processus d’adoption des technologies dans le secteur public. Cette situation freine la mise en œuvre rapide des innovations et décourage les entrepreneurs.
+> [!IMPORTANT]
+> Les entreprises locales et les start-ups éprouvent des difficultés à tester leurs solutions innovantes en raison de la rigidité des processus d’adoption des technologies dans le secteur public. Cette situation freine la mise en œuvre rapide des innovations et décourage les entrepreneurs.
 
 ### 💡 Solution
 
@@ -89,7 +92,8 @@ Les entreprises locales et les start-ups éprouvent des difficultés à tester l
 
 ## Suivi de l'attribution des marchés publics : favoriser le développement local
 
-Le manque de transparence sur la répartition des marchés publics entre les entreprises locales et les entreprises hors département freine la création de valeur au sein des Antilles. Cela peut aussi décourager les entrepreneurs locaux qui ont l’impression d’être défavorisés.
+> [!IMPORTANT]
+> Le manque de transparence sur la répartition des marchés publics entre les entreprises locales et les entreprises hors département freine la création de valeur au sein des Antilles. Cela peut aussi décourager les entrepreneurs locaux qui ont l’impression d’être défavorisés.
 
 ### 💡 Solution
 
