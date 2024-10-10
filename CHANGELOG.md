@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.0.6 2024-10-09
+
+* Ajout du [README en anglais](README-EN.md)
+* Modification de la structure des fichiers
+
 ## 0.0.5 2024-10-08
 * Ajout du chapître `Le rôle des institutions et des politiques publiques`
 * Ajout du chapître `La diaspora : une force à mobiliser`
