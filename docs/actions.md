@@ -14,9 +14,9 @@ Nous ne pouvons plus attendre. Les solutions sont à notre portée, mais elles n
 - **Les entreprises locales** : doivent s’engager à investir dans des solutions numériques, à innover dans leurs modèles économiques et à collaborer avec les start-ups et les initiatives locales pour créer un écosystème propice à l’innovation.
 - **Les entrepreneurs et start-ups** : ont la responsabilité d’oser, de créer et de proposer des solutions adaptées aux besoins de nos territoires, tout en s'appuyant sur des technologies de pointe.
 - **La diaspora** : doit être mobilisée pour partager ses connaissances, son expertise, et investir dans les projets d’avenir, devenant ainsi un véritable catalyseur de développement.
-- **Les citoyens** : doivent participer activement à cette transformation en s’appropriant les outils numériques, en se formant aux nouvelles compétences et en s’impliquant dans les initiatives locales.
+- **Les citoyens** : doivent participer activement à cette transformation en s'appropriant les outils numériques, en se formant aux nouvelles compétences et en s'impliquant dans les initiatives locales.
 
-Voici les actions clés que nous devons lancer dès maintenant :
+## Voici les actions clés que nous devons lancer dès maintenant :
 
 💡 **Défiscalisation des entreprises numériques dès leur création** : Proposer une exonération fiscale aux nouvelles entreprises numériques jusqu'à un seuil de 40 000 € de revenu, afin de soutenir les start-ups locales dans leurs premières années d'activité et encourager l'innovation.
 
